@@ -1,0 +1,15 @@
+Column1,Column2,Column3,Column4,Column5,Column6,Column7
+Anova: Single Factor,,,,,,
+,,,,,,
+SUMMARY,,,,,,
+Groups,Count,Sum,Average,Variance,,
+Telegram Follower,13,14249,1096.076923,4767570.244,,
+Telegram Hour',13,44,3.384615385,3.923076923,,
+,,,,,,
+,,,,,,
+ANOVA,,,,,,
+Source of Variation,SS,df,MS,F,P-value,F crit
+Between Groups,7760847.115,1,7760847.115,3.255679658,0.083741911,4.259677273
+Within Groups,57210890,24,2383787.083,,,
+,,,,,,
+Total,64971737.12,25,,,,
